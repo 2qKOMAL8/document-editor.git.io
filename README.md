@@ -3,14 +3,14 @@ RealTimeEdify is a real-time collaborative document editing web application buil
 ![image alt](https://github.com/2qKOMAL8/document-editor.git.io/blob/main/m1.png?raw=true)
 ![image alt](https://github.com/2qKOMAL8/document-editor.git.io/blob/main/m2.png?raw=true)
 ![image alt](https://github.com/2qKOMAL8/document-editor.git.io/blob/main/Screenshot%202025-02-25%20081330.png?raw=true)
-Getting Started
 
-Follow these steps to run RealTimeEdify locally:
+- Getting Started
+
+Follow these steps to run Document-editer locally:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/RealTimeEdify.git
-cd RealTimeEdify
+git clone https://github.com/2qKOMAL8/document-editor.git.io.git
 
 2. Install dependencies for frontend:
 
